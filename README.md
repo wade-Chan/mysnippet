@@ -1,0 +1,2 @@
+# mysnippet
+snippet
